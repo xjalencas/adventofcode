@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*~
+*.swp
+*.swn
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+build
+*.so
+docs/_build
+
